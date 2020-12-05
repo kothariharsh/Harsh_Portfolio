@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Harsh Kothari</title>
+    <link>https://kothariharsh.github.io/Harsh_Portfolio/post/</link>
+    <description>Recent content in Projects on Harsh Kothari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://kothariharsh.github.io/Harsh_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Movie Recommendation System</title>
+      <link>https://kothariharsh.github.io/Harsh_Portfolio/post/project-1/</link>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kothariharsh.github.io/Harsh_Portfolio/post/project-1/</guid>
+      <description>This is a hollywood movie recommender system built with Python. I have used a Kaggle Dataset, scraped data from wikipedia and also fetched some data from the TMDB API. I used Flask web framework in built in Python to put the recommeder system on the web.
+   Deployed a Content-Based Recommender System that recommends movies like user likes and analyses the sentiments on the reviews given by other users for the movie.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Exploratory Data Analysis of Covid-19 Cases</title>
+      <link>https://kothariharsh.github.io/Harsh_Portfolio/post/project-6/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kothariharsh.github.io/Harsh_Portfolio/post/project-6/</guid>
+      <description>Performed EDA on the Covid-19 Data to have a look at trends and pattern that Covid has in the rise of cases Worldwide and in the country of India. The trends on how and when the burst of cases started to affect the country of India can easily be seen in the file. Performed some data preprocessing the include the important features in the dataset. Also plotted some trends regarding the number of cases in Wuhan, Korea and Italy just to have look at trends in the early days case of Covid as compared to India.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Customer Segmentation on E-commerce Data</title>
+      <link>https://kothariharsh.github.io/Harsh_Portfolio/post/project-5/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kothariharsh.github.io/Harsh_Portfolio/post/project-5/</guid>
+      <description>In mall it is very important for the management to segregate the customers that are present in the mall so that they can provide certain offers to a particular group and that can be used to increase the sales profit of the mall as well as build their reputation. In this repository I have used the mall dataset to segregate the customers. It is just a basic segementation project that is used to segment the customers in a mall based on their age, salary and spending score.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Traffic Sign Classification</title>
+      <link>https://kothariharsh.github.io/Harsh_Portfolio/post/project-3/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kothariharsh.github.io/Harsh_Portfolio/post/project-3/</guid>
+      <description>The goal of this project is to implement a classifier using deep learning to predict traffic signs using Tensorflow library. I implemented a CNN with three layers and one fully connected layer which is inspired by the work of Yann LeCun. I used Relu as the activation function and implemented augementaion and dropout. I was able to acheive 98.2% validation accuracy and 91.2% test accuracy. The model was implemented using tensorflow.</description>
+    </item>
+    
+    <item>
+      <title>Project 5: USA Traffic Analysis</title>
+      <link>https://kothariharsh.github.io/Harsh_Portfolio/post/project-4/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kothariharsh.github.io/Harsh_Portfolio/post/project-4/</guid>
+      <description>There are relationship between accidents, weather and air pollution. We created a system that tries to find the relationship and trends between the USA traffic data in order to draw a comprehensive conclusion. We have also evaluated certain environmental and socio-economic factors to enhance our findings.
+  The scope of this project primarily covers US traffic data along with accident reports from the years 2015 to 2019. The overall size of the dataset is around 13 million.</description>
+    </item>
+    
+    <item>
+      <title>Project 6: TED Talks Ratings</title>
+      <link>https://kothariharsh.github.io/Harsh_Portfolio/post/project-2/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kothariharsh.github.io/Harsh_Portfolio/post/project-2/</guid>
+      <description>An exploratory analysis will be performed focusing on the ratings data. They will be related to the other variables, such as views, comments, duration, languages, tags and speaker occupation. The objective is to understand where the rating comes from, if the other variables could have an influence on it . The main ratings given to each talk will also be explored.
+  The objective of this work was to understand a little about the TED Talks ratings.</description>
+    </item>
+    
+  </channel>
+</rss>
